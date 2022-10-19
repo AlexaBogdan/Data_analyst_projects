@@ -1,6 +1,6 @@
 # Data_analyst_projects
 
-![](https://github.com/AlexaBogdan/data_analyst_projects/blob/main/image/1311213_313.jpg?raw=true)
+![](https://github.com/AlexaBogdan/data_analyst_projects/blob/main/image/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0.jpg?raw=true)
 
 Данные проекты были реализованы в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных"
 
